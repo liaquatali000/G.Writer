@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:ai.google.dev)",
+      "Bash(python test:*)",
+      "Bash(venvScripts:*)",
+      "Bash(call venvScriptsactivate)",
+      "Bash(python:*)",
+      "WebSearch",
+      "Bash(pip install:*)",
+      "Bash(pyinstaller:*)",
+      "Bash(dir:*)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": [],
+    "ask": [],
+    "additionalDirectories": [
+      "C:\\c\\Users\\HP\\Desktop"
+    ]
+  }
+}

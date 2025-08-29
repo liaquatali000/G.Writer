@@ -1,0 +1,13 @@
+read all the api documents how models will work check all document and agent mvp etc how the functions will call https://ai.google.dev/gemini-api/docs
+
+
+i wants to build a gui based windows app in python when we will start it it will run in background like in notification areawhere should have options to add the google gemenia api key and verifiy authtication using the we should able to do like
+
+
+if we are in any text inout field not metter we we are writing anything it will could be not grammerly perfect as Ai writes it
+
+we will click shortcut key like control+G
+
+this will copy the selected text and send it to the gemia to rewrite it and it will give rewritten text and paste override the selected text
+
+in .env should have with api info and also create .bat to activate the enve and run the app
